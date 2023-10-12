@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rakibul hasan</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<img aling="right" alt="code" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rh-abir&label=Profile%20views&color=0e75b6&style=flat" alt="rh-abir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rh-abir" alt="rh-abir" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rhabir9" target="blank"><img src="https://img.shields.io/twitter/follow/rhabir9?logo=twitter&style=for-the-badge" alt="rhabir9" /></a> </p>
-
-- 🔭 I’m currently working on **Move-Flix**
 
 - 🌱 I’m currently learning **Typescript,**
 
@@ -23,7 +22,11 @@
 <p align="left">
 <a href="https://twitter.com/rhabir9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhabir9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakibul71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakibul71/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16557330/rhabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16557330/rhabir" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rhabir.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rhabir.co/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rhabir71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rhabir71/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/rabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/rabir" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/rhabir_co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rhabir_co" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
