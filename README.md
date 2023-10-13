@@ -1,13 +1,9 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://my-portfolio-7677a.web.app)
 
-<h1 align="center">Hi 👋, I'm Rakibul hasan</h1>
+<h1 align="center">Hi, I'm Rakibul hasan</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
 <img align="right" alt="Rakibul"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rh-abir&label=Profile%20views&color=0e75b6&style=flat" alt="rh-abir" /> </p>
-
 
 - 🌱 I’m currently learning **React Native**
 
@@ -35,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rh-abir&show_icons=true&locale=en&layout=compact" alt="rh-abir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rh-abir&show_icons=true&locale=en" alt="rh-abir" /></p>
+<p>&nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=rh-abir&show_icons=true&locale=en" alt="rh-abir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rh-abir&" alt="rh-abir" /></p>
+<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rh-abir&" alt="rh-abir" /></p>
